@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DBConnect {
 
-    private static final String url = "jdbc:mariadb://localhost:3307/db_instant-faking-java";
+    private static final String url = "jdbc:mariadb://localhost:3307/exam_poec_2024";
 
     private static final String user = "root";
 

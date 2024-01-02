@@ -5,6 +5,7 @@ import org.dorianferreira.service.DBConnect;
 
 import lombok.Getter;
 import lombok.Setter;
+import org.dorianferreira.service.Dump;
 
 import java.sql.ResultSet;
 import java.sql.Statement;

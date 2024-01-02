@@ -9,6 +9,7 @@ public class Dump {
         String[] myPackage = packages.split("\\.");
         return myPackage[0] + "." + myPackage[1] + "." + myPackage[2];
     }
+
     public static void json(String json) {
         JSONObject jsonObject = new JSONObject(json);
         System.out.println(jsonObject.toString(4)); // Print it with specified indentation
