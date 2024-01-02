@@ -12,9 +12,9 @@ public class MainRegion {
     final static private RegionRepository rr = RegionRepository.getRepository();
 
     public static void main(String[] args) {
-//        showAllRegions();
-//        showPopulationByRegion();
+        showAllRegions();
         showAllCitiesByRegion();
+        showPopulationByRegion();
     }
 
     private static void showAllRegions() {

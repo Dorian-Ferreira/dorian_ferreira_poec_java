@@ -13,7 +13,7 @@ public class MainCity {
     final static private CityRepository cr = CityRepository.getRepository();
 
     public static void main(String[] args) {
-//        showAllCities();
+        showAllCities();
         showAllCitiesOfDepartment();
     }
 

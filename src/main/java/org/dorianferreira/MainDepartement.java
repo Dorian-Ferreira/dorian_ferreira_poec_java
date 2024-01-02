@@ -14,8 +14,8 @@ public class MainDepartement {
     final static private DepartementRepository dr = DepartementRepository.getRepository();
 
     public static void main(String[] args) {
-//        showAllDepartments();
-//        showAllDepartmentFromRegion();
+        showAllDepartments();
+        showAllDepartmentFromRegion();
         showAllPopulationFromDepartment();
     }
 

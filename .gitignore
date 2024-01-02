@@ -1,4 +1,4 @@
-target/
+dorian_ferreira_poec_java/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
