@@ -1,4 +1,4 @@
-package org.dorianferreira.mvc.entity;
+package org.dorianferreira.entity;
 
 public interface EntityInterface {
     Long getId();

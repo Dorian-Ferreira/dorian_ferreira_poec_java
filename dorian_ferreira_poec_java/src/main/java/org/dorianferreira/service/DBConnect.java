@@ -1,4 +1,4 @@
-package org.dorianferreira.mvc.service;
+package org.dorianferreira.service;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

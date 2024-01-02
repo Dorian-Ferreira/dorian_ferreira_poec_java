@@ -1,4 +1,4 @@
-package org.dorianferreira.mvc.service;
+package org.dorianferreira.service;
 
 import java.io.IOException;
 import java.net.URI;

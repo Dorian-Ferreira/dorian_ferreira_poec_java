@@ -1,7 +1,7 @@
-package org.dorianferreira.mvc.repository;
+package org.dorianferreira.repository;
 
-import org.dorianferreira.mvc.entity.EntityInterface;
-import org.dorianferreira.mvc.service.DBConnect;
+import org.dorianferreira.entity.EntityInterface;
+import org.dorianferreira.service.DBConnect;
 
 import lombok.Getter;
 import lombok.Setter;
